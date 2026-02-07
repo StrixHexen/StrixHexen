@@ -1,16 +1,19 @@
-## Hi there 👋
+# Kay (Caleb) Haines
 
-<!--
-**StrixHexen/StrixHexen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-level cybersecurity student in Melbourne focused on SOC workflows: alert triage, log analysis, and investigation-ready detections.
 
-Here are some ideas to get you started:
+## Focus areas
+- Linux monitoring and audit signals
+- Network traffic analysis (tcpdump/Wireshark)
+- SIEM fundamentals (Wazuh) and detection-to-investigation workflows
+- MITRE ATT&CK mapping for investigation context
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project
+- **WardScry (in progress):** Linux honeytoken detection tool designed to surface suspicious file access with user/time/host context and generate SIEM-friendly alerts.
+
+## Labs & write-ups
+- Wazuh host-based monitoring lab (alerts, triage notes, rules)
+- Network traffic analysis lab (ICMP capture + filtering + analysis)
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/kay-haines-strix
